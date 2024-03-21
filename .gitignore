@@ -1,0 +1,7 @@
+access.txt
+secret.txt
+terraform.tfvars
+.terraform
+*.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.d
