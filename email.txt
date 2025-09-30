@@ -1,0 +1,18 @@
+Subject: Request for Role Assignment on SonarQube, Vault, JFrog, and Harness
+
+Hi Adam,
+
+I hope you are doing well.
+
+With Sumit’s help, I was able to successfully connect to the portal using Azure CLI. Sumit also shared access credentials/details for SonarQube, Vault, JFrog, and Harness. While I can log in to these platforms, I noticed that I do not currently have any roles assigned, which is preventing me from accessing or performing any meaningful actions within these tools.
+
+To proceed with my work and contribute effectively, I would require the appropriate roles and permissions on each of these platforms. I’ve summarized my current access status below for better visibility:
+
+Tool/Platform	Current Access	Role Assigned	Access Issue	Requested Action
+Azure Portal (via CLI)	Able to connect with Sumit’s help	Basic Access	Connected successfully	No action needed
+SonarQube	Login successful	No role assigned	Cannot view/analyze projects	Assign required project/analysis role
+Vault	Login successful	No role assigned	Cannot access secrets	Assign appropriate read/write policy
+JFrog	Login successful	No role assigned	Cannot upload/download artifacts	Assign developer role with repository access
+Harness	Login successful	No role assigned	Cannot view or run pipelines	Assign required deployment/CI-CD role
+
+It would be great if you could help me get the required roles assigned or guide me on whom to reach out to for role mapping. This will enable me to begin working on the respective tasks without delay.
